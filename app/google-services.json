@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575256366453",
+    "firebase_url": "https://fisika-itu-mudah.firebaseio.com",
+    "project_id": "fisika-itu-mudah",
+    "storage_bucket": "fisika-itu-mudah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575256366453:android:b1f7d66464c0a9a6",
+        "android_client_info": {
+          "package_name": "com.example.fisikamudah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575256366453-np7lnlet8j428nvha9u5vb2vrb5vtoh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fisikamudah",
+            "certificate_hash": "1ee05b3528ba344c200eb8d0e44131a12cae7768"
+          }
+        },
+        {
+          "client_id": "575256366453-75f09k4e5d9gsebieidi59pks84b0jq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDym0fh7xgD5HrOonzYfintD2hKzEEJag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575256366453-75f09k4e5d9gsebieidi59pks84b0jq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
